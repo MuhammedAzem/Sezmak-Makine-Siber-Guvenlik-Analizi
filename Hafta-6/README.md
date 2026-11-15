@@ -16,7 +16,6 @@ Bu çalışmada makinenin servis hesabına yetkisiz erişim sağlandığı ve PL
 - Olay kayıtları, erişim logları ve PLC yapılandırma bilgilerinin korunması planlanmıştır.
 
 ## Hafta 6 Dosyaları
-- Siseleme-6.pdf
 - Paketleme-6.pdf
 
 ## Sonuç
