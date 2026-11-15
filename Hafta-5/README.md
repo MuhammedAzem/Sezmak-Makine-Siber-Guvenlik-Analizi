@@ -17,7 +17,6 @@ Bu çalışmada endüstriyel kontrol sistemlerindeki yazılım bileşenlerinin g
 - Yama uygulanamadığında kullanılabilecek telafi edici güvenlik önlemleri belirlenmiştir.
 
 ## Hafta 5 Dosyaları
-- Siseleme-5.pdf
 - Paketleme-5.pdf
 
 ## Sonuç
