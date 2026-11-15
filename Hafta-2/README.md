@@ -16,7 +16,6 @@ Bu çalışmada Sezmak Rotary Dolum, Kesme ve Kapatma Makinesi için IEC 62443 y
 - Yetkisiz erişim risklerini azaltacak güvenlik önlemleri belirlenmiştir.
 
 ## Hafta 2 Dosyaları
-- Siseleme-2.pdf
 - Paketleme-2.pdf
 
 ## Sonuç
