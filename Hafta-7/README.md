@@ -21,7 +21,6 @@ Yapay zekâ kararları tek başına makine emniyetini garanti etmez. Şüpheli �
 Örnek güven eşiği %90 olarak belirlenmiştir. Bu değer gerçek sistem testleriyle doğrulanmadan kullanılmamalıdır.
 
 ## Hafta 7 Dosyaları
-- Siseleme-7.pdf
 - Paketleme-7.pdf
 
 ## Sonuç
