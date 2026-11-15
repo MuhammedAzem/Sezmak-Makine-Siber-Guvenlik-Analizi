@@ -21,7 +21,6 @@ Risk Skoru = Olasılık × Şiddet × Maruziyet
 Her kriter 1 ile 3 arasında puanlanmıştır.
 
 ## Hafta 3 Dosyaları
-- Siseleme-3-DUZELTILMIS.pdf
 - Paketleme-3-DUZELTILMIS.pdf
 
 ## Sonuç
