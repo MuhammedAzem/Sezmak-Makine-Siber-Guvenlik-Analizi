@@ -16,7 +16,6 @@ Bu çalışmada makinenin uzaktan bakım bağlantılarında oluşabilecek siber 
 - Siber güvenlik ile fonksiyonel emniyet arasındaki ilişki açıklanmıştır.
 
 ## Hafta 4 Dosyaları
-- Siseleme-4.pdf
 - Paketleme-4.pdf
 
 ## Sonuç
